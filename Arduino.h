@@ -4,12 +4,26 @@
 
 #define INPUT 0
 
-// interupt modes
+//pin state
 #define LOW 0
+#define HIGH 0
+
+// interupt modes
 #define CHANGE 0
 #define RISING 0
 #define FALLING 0
-#define HIGH 0
+
+
+
+// analoges pins
+#define A0 0
+#define A1 0
+#define A2 0
+#define A3 0
+#define A4 0
+#define A5 0
+#define A6 0
+#define A7 0
 
 
 
