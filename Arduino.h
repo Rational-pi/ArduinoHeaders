@@ -13,6 +13,9 @@
 #define RISING 0
 #define FALLING 0
 
+//registers
+#define PIND 0
+
 
 
 // analoges pins
